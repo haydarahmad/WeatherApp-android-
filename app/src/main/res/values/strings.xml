@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="image_item_weather">image item weather</string>
+    <string name="icon_based_on_weather">Icon based on weather</string>
+</resources>
